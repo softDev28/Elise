@@ -81,7 +81,7 @@ then add this jason data:
       "icon": "./img/electron.ico"
     },
     "nsis": {
-      "oneClick": true,
+      "oneClick": false,
       "installerIcon": "./img/electron.ico",
       "uninstallerIcon": "./img/electron.ico",
       "uninstallDisplayName": "Electron-uninstaller",
